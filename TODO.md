@@ -3,7 +3,7 @@
 ## Уровень 0: C и Linux (25 задач)
 ### C (1-15)
 - [x] 01-hello-world-c
-- [ ] 02-strlen
+- [x] 02-strlen
 - [ ] 03-strcpy
 - [ ] 04-stack-array
 - [ ] 05-stack-list
