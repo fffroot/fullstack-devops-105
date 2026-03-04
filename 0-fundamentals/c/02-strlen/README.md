@@ -18,4 +18,5 @@ gcc src/strlen.c -o strlen_test
 
 Статус
 
-⬜ В процессе
+⬜ Выполнено
+
